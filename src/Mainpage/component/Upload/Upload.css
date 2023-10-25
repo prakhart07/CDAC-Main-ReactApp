@@ -1,0 +1,41 @@
+.box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vw;
+    width: 40vw;
+    background-color: blue;
+    margin-left: 30vw;
+    margin-top: 90px;
+    margin-bottom: 80px;
+    
+    
+}
+
+.inner{
+
+height: 30vw;
+width: 35vw;
+background-color: gray;
+border-radius: 10px;
+/* justify-content: center; */
+display: flex;
+/* align-items: center; */
+padding: 2vw 4vw;
+
+
+
+}
+
+/* .inner div {
+    position: relative;
+    overflow: hidden;
+  }
+ .inner input {
+    position: absolute;
+    font-size: 50px;
+    opacity: 0;
+    right: 0;
+    top: 0;
+  } */

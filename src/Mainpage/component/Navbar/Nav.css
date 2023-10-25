@@ -1,0 +1,55 @@
+
+.container-fluid{
+
+padding: 0px 0px;
+
+}
+
+
+
+
+
+.main{
+
+width: 100%;
+height: 3vw;
+background-color: royalblue;
+display: flex;
+align-items: center;
+
+}
+
+.logo{
+
+display: flex;    
+width: 9vw;
+height: 2.5vw;
+/* background-color: black; */
+color: white;
+justify-content: center;
+padding: 0.1vw 1vw;
+
+
+}
+
+.search{
+
+height: 2.5vw;
+width: 20vw;
+/* background-color: blanchedalmond; */
+margin-left: 1000px;
+padding: 0.5vw 3.5vw;
+
+
+}
+
+.btn button{
+
+background-color: black;
+
+}
+
+.logo h2{
+    color: white;
+    text-decoration: none;
+}
