@@ -59,9 +59,9 @@ function Navbar() {
         <div class="header-right">
                {/* <Link to={{Login}}>Home</Link> */}
             <a class="active" href="https://shiksha-bharat-portal.vercel.app/" >Home</a>
-            <a href='http://localhost:3000/login'>Admin </a>
-            <a href="http://localhost:3000/institutelogin">Institute</a>
-            <a href="http://localhost:3000/studentlogin">Student's Corner</a>
+            <a href='/login'>Admin </a>
+            <a href="/institutelogin">Institute</a>
+            <a href="/studentlogin">Student's Corner</a>
             <button style={{ width: "75px", height: "50px"}} onClick={Logout}><center>Logout</center></button> 
         </div>
         </div>
